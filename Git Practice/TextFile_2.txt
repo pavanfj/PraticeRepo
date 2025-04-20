@@ -1,0 +1,7 @@
+1) Check if a local repo is created here, will the user created in another repo show here.
+
+2) Now add local email
+
+3) How to un-stage, staged items?
+
+4) How to un-commit, committed changes?
