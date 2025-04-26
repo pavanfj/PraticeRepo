@@ -28,3 +28,5 @@ This has been successfully achieved.
 
 I've tried to remove the access with remote repo.
 
+Removed the credentials from the credentials manager.
+
