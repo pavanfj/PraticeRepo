@@ -25,3 +25,6 @@ Journey 4:
 Journey 5:
 1) How to link the local repo to a remote one to push?
 This has been successfully achieved.
+
+I've tried to remove the access with remote repo.
+
