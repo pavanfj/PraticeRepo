@@ -30,3 +30,5 @@ I've tried to remove the access with remote repo.
 
 Removed the credentials from the credentials manager.
 
+I want to just set the upstream only not push.
+
