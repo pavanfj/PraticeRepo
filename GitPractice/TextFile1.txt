@@ -16,4 +16,6 @@ I want to just set the upstream only not push.
 
 Completed all that, now doing Monday revision
 After commit, let's try to set an upstream, with a remote repo and then try to remove that.
+
+Now trying to unset the upstream.
  
