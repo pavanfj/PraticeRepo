@@ -4,24 +4,6 @@ I'm adding another line after committing and them removed the config and will tr
 
 I've removed the email from the configuration and now trying to commit.
 
-Journey 1: (pre-condition: no user.email config)
-1) Create Repo
-2) Add to stage
-3) Try to commit
-
-Journey 2: (pre-condition: no user.email config)
-1) Create Repo
-2) Add to stage
-3) config with user.email
-4) Commit
-
-Journey 3:
-1) After first commit, unset the global config
-2) Then make changes in the local > Add to stage > Try to commit
-
-Journey 4:
-1) Try to commit with just local config, instead of global one.
-
 Journey 5:
 1) How to link the local repo to a remote one to push?
 This has been successfully achieved.
@@ -32,3 +14,6 @@ Removed the credentials from the credentials manager.
 
 I want to just set the upstream only not push.
 
+Completed all that, now doing Monday revision
+After commit, let's try to set an upstream, with a remote repo and then try to remove that.
+ 
