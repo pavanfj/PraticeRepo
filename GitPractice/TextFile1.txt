@@ -22,3 +22,5 @@ Now trying to unset the upstream.
 Tuesday practice:
 I will first set upstream and try to push by removing the credentials.
  
+Signed out from the browser and then trying to push the code an removed the details from the credentials manager as well.
+
