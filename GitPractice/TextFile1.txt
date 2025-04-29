@@ -18,4 +18,7 @@ Completed all that, now doing Monday revision
 After commit, let's try to set an upstream, with a remote repo and then try to remove that.
 
 Now trying to unset the upstream.
+
+Tuesday practice:
+I will first set upstream and try to push by removing the credentials.
  
