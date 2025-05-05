@@ -24,3 +24,9 @@ I will first set upstream and try to push by removing the credentials.
  
 Signed out from the browser and then trying to push the code an removed the details from the credentials manager as well.
 
+Practice again
+1) Commit in local repo
+2) make connect and set upstream with remote repo
+3) push and them remove all the connections.
+4) make again the local repo independent of remote repo.
+
