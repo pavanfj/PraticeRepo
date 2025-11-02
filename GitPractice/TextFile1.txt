@@ -30,3 +30,4 @@ Practice again
 3) push and them remove all the connections.
 4) make again the local repo independent of remote repo.
 
+Practice on 23/05/2025
