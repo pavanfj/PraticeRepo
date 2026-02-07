@@ -35,3 +35,5 @@ Practice on 23/05/2025
 Practice started on 07/02/2025
 
 I'm deleting the other folder completely. Now I've deleted.
+
+I've created changes inside the remote repo by creating new branch. Now I'm practicing by pushing the changes to newly created branch instead of master.
